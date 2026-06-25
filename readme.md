@@ -10,11 +10,11 @@ merging, conflict resolution, and commit history manipulation.
 
 ---
 
-## Project Structure
+### Project Structure
 The repository initially contains the following files:
 
-- readme.md
-- Additional files may be added during the examination
+- readme.md (main project documentation file)
+- Additional files may be added during the examination (created during exam)
 
 Each file must be properly tracked using Git.
 
